@@ -1,0 +1,50 @@
+[
+    {
+      "_id": "0",
+      "naslov": "Naslov",
+      "tekst": "NEka vest b1",
+      "url":"",
+      "has_url":"false",
+      "isActive": true
+    },
+    {
+      "_id": "1",
+      "naslov": "Naslov",
+      "tekst": "NEka vest b2",
+      "url":"",
+      "has_url":"false",
+      "isActive": true
+    },
+    {
+      "_id": "2",
+      "naslov": "Naslov",
+      "tekst": "NEka vest b1",
+      "url":"",
+      "has_url":"false",
+      "isActive": true
+    },
+    {
+      "_id": "3",
+      "naslov": "Naslov",
+      "tekst": "NEka vest b2",
+      "url":"",
+      "has_url":"false",
+      "isActive": true
+    },
+    {
+      "_id": "4",
+      "naslov": "Naslov",
+      "tekst": "NEka vest b1",
+      "url":"",
+      "has_url":"false",
+      "isActive": true
+    },
+    {
+      "_id": "5",
+      "naslov": "Naslov",
+      "tekst": "NEka vest b2",
+      "url":"",
+      "has_url":"false",
+      "isActive": true
+    }
+  ]
